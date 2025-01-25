@@ -1,4 +1,4 @@
-# car_price
+# Car price forecasting
 Using CatBoost = R2 score: 0.94
 
 Solving the problem of predicting the price of a car based on a number of parameters.
